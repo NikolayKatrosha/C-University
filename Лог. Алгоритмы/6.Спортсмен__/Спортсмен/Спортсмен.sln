@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Спортсмен", "Спортсмен\Спортсмен.vcxproj", "{691C3788-2080-4C91-B3E4-CA90AB5EAEEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{691C3788-2080-4C91-B3E4-CA90AB5EAEEC}.Debug|x64.ActiveCfg = Debug|x64
+		{691C3788-2080-4C91-B3E4-CA90AB5EAEEC}.Debug|x64.Build.0 = Debug|x64
+		{691C3788-2080-4C91-B3E4-CA90AB5EAEEC}.Debug|x86.ActiveCfg = Debug|Win32
+		{691C3788-2080-4C91-B3E4-CA90AB5EAEEC}.Debug|x86.Build.0 = Debug|Win32
+		{691C3788-2080-4C91-B3E4-CA90AB5EAEEC}.Release|x64.ActiveCfg = Release|x64
+		{691C3788-2080-4C91-B3E4-CA90AB5EAEEC}.Release|x64.Build.0 = Release|x64
+		{691C3788-2080-4C91-B3E4-CA90AB5EAEEC}.Release|x86.ActiveCfg = Release|Win32
+		{691C3788-2080-4C91-B3E4-CA90AB5EAEEC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2DA817B-78AF-490F-9EC7-E157BE359CAE}
+	EndGlobalSection
+EndGlobal
